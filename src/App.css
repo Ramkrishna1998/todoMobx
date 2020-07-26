@@ -1,0 +1,16 @@
+.App-header {
+  background-color: #282c34;
+  height: 100vh;
+}
+
+
+.createBox {
+  background-color: rgb(0, 238, 255);;
+  border-radius: 7px;
+  width: 26%;
+  padding: 30px;
+  height: 80vh;
+  margin: 0px auto;
+  top: 22px;
+  position: relative;
+}
